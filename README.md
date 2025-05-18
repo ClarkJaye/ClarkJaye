@@ -1,11 +1,11 @@
 Hello! 👋
 
-  • 👨‍💻 Software Engineer 
-  • 🛠️ I love building application, Frontend, Backend & Web/Mobile Development.
-  • 💻 Net Core, VBScript, React, NodeJS, TypeScript & PHP
-  • 🔥 Manhwa & Anime Fan
-  • 📧 Contact: jayclarkmonzon@gmail.com
-  • 🔥 Eager to learn more and always looking for improvements.
+  • 👨‍💻 Software Engineer <br/>
+  • 🛠️ I love building application, Frontend, Backend & Web/Mobile Development. <br/>
+  • 💻 Net Core, VBScript, React, NodeJS, TypeScript & PHP. <br/>
+  • 🔥 Manhwa & Anime Fan <br/>
+  • 📧 Contact: jayclarkmonzon@gmail.com <br/>
+  • 🔥 Eager to learn more and always looking for improvements. <br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
